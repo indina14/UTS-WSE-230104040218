@@ -1,0 +1,23 @@
+{
+  "name": "uts-wse-230104040218",
+  "version": "1.0.0",
+  "description": "Membangun RESTful API dengan CRUD Lengkap dan 7 RESTful Principles",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "restful",
+    "express",
+    "node"
+  ],
+  "author": "230104040218",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
